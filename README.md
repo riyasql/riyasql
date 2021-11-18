@@ -1,4 +1,4 @@
-[header]
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### Hi there 👋
 
