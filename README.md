@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-> TAnyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.
-Henry Ford
+> Anyone who stops learning is old, whether at twenty or eighty. 
+> Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young. - Henry Ford
 
 <!--
 **riyasql/riyasql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
